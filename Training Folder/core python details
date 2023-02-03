@@ -1,0 +1,43 @@
+ comments : # or """demo"""
+ 
+ variavbles : x , str(x)--casting, type(x)--get type of variable
+ 
+ datatype: str, int, float, complex, list, tuple, range, dict, set, bool, bytes, bytearray
+ 
+ String operations: x,x[:]--slicing,upper(),lower(), strip()--remove white-space, replace(old,new), split(symbol/letter), str1 + str2--combine, "{}"-.formate(x) -- set value in statment, \"-- print("), 
+
+ escape char : \', \", \\,\n,\t,\b,
+
+ inheritance: 
+ 	class cclass(sclass):
+
+
+ Date & time:
+ 	import datetime
+ 	.datetime.now()  
+ 	.datetime(yyyy,mm,dd)
+
+ math:
+ 	min(),max(),abs(),pow()
+ 	import math
+ 	.sqrt(), .ceil(), .pi
+
+ JSON with python
+ 	import json
+ 	json.load(x)--json to python
+ 	json.dumps(x)--python to json
+
+ 	python-json
+ 	dict-object
+ 	tuple,list-array
+ 	str-string
+ 	int,float-number
+ 	True, False-true, false
+ 	None- null
+
+ RegEX with python
+ 	import re
+ 	function - .search(), .findall(), .split(), .sub()
+ 	metacahr - [],\,.,^,$,*,+,?,{},|,()
+ 	
+ 	
